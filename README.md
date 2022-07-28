@@ -32,6 +32,6 @@ Uma página será aberta com o gráfico mensal
 
 ## 📝 Licença
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes.
 
 [⬆ Voltar ao topo](#IPCA-historico)<br>
